@@ -1,0 +1,11 @@
+
+@tailwind base; 
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+.animMargin{
+	transition: margin 0.2s
+}
